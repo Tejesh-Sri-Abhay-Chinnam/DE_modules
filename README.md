@@ -1,4 +1,4 @@
-# DEmodules-verilog
+# DE_modules :)
 Hello and welcome to DE_modules, This repo contails different components of digital electronics. these components/modules can be integrated into any coustome HDL project and can be configured as you need according to tailored specifications of the project.
 
 
