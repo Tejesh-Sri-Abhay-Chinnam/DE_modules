@@ -3,8 +3,8 @@ Hello and welcome to DE_modules repo, This repo contails different modules of di
 
 
 ___
-## Structure of this repo:
-The structure of this repo is mentioned below using an tree-structure with a berif idea about the folder:
+## Structure of the repo:
+The structure of this repo is shown below using an tree-structure with a berif idea about the files & folders:
 
     DE_modules/
     ├── .gitattributes
@@ -14,13 +14,14 @@ The structure of this repo is mentioned below using an tree-structure with a ber
     │
     │
     ├── src/
-    │   └── (files organised)   //for easy designing & verification. 
+    │   └── (source code organised)   //for easy designing & verification. 
     │
     ├── modules traker/
-    │   └── (traker)    //tracking every module's status. 
+    │   └── (traker file)    //tracking every module's status. 
     │
     ├── downloads/
-    x   └──(modules in folder)  //collective download for use. 
+    x   └── (all src files)  //collective download (tool specific). 
 
+each folder is having an README file for easy navigation and info tailored to itself.
 
 ___
